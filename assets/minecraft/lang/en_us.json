@@ -1,0 +1,35 @@
+{
+  "item.minecraft.raw_gold": "Raw RAM",
+  "item.minecraft.gold_ingot": "RAM Ingot",
+  "item.minecraft.gold_nugget": "RAM Nugget",
+  "item.minecraft.golden_axe": "RAM Axe",
+  "item.minecraft.golden_boots": "RAM Boots",
+  "item.minecraft.golden_carrot": "RAM Carrot",
+  "item.minecraft.golden_chestplate": "RAM Chestplate",
+  "item.minecraft.golden_helmet": "RAM Helmet",
+  "item.minecraft.golden_hoe": "RAM Hoe",
+  "item.minecraft.golden_horse_armor": "RAM Horse Armor",
+  "item.minecraft.golden_leggings": "RAM Leggings",
+  "item.minecraft.golden_pickaxe": "RAM Pickaxe",
+  "item.minecraft.golden_shovel": "RAM Shovel",
+  "item.minecraft.golden_sword": "RAM Sword",
+  "item.minecraft.golden_spear": "RAM Spear",
+  "item.minecraft.golden_apple": "RAM Apple",
+  "item.minecraft.enchanted_golden_apple": "16 Gigabyte RAM Apple",
+  
+
+  "block.minecraft.gold_ore": "RAM Ore",
+  "block.minecraft.deepslate_gold_ore": "Deepslate RAM Ore",
+  "block.minecraft.nether_gold_ore": "Nether RAM Ore",
+  "block.minecraft.raw_gold_block": "Block of Raw RAM",
+  "block.minecraft.gold_block": "Block of RAM",
+  "block.minecraft.golden_dandelion": "RAM Dandelion",
+  "block.minecraft.potted_golden_dandelion": "Potted RAM Dandelion",
+
+
+  "subtitles.item.golden_dandelion.unuse": "RAM Dandelion starts aging",
+  "subtitles.item.golden_dandelion.use": "RAM Dandelion halts aging",
+ 
+  
+  "trim_material.minecraft.gold": "RAM Material"
+  }
